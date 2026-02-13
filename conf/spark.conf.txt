@@ -1,3 +1,7 @@
 spark.app.name=lendingclub
 spark.executor.cores=4
+<<<<<<< HEAD
 spark.executor.memory=8G
+=======
+spark.executor.memory=4G
+>>>>>>> 23dc56a5a92d44c110ce3bb677119eaafd863d7d
